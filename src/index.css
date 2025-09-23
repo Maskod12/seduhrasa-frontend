@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+},
+ colors: {
+        primary: "#f472b6",   // pink
+        secondary: "#4ade80", // hijau
+        accent: "#facc15",    // kuning latte
+        background: "#f9fafb",
+        dark: "#111827",      // teks hitam abu tua
+      },
