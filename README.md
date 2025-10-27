@@ -1,12 +1,33 @@
-# React + Vite
+# ☕ SeduhRasa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SeduhRasa** adalah aplikasi pemesanan kopi dan makanan berbasis web yang dibuat menggunakan **React.js** (frontend) dan **Node.js + MySQL** (backend).  
+Aplikasi ini dirancang untuk menampilkan daftar menu, menambahkan item ke keranjang, serta memiliki halaman login untuk pengguna.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Fitur Utama
 
-## Expanding the ESLint configuration
+- ✨ **Halaman Menu** — Menampilkan daftar menu kopi & makanan lengkap dengan gambar, deskripsi, dan harga.  
+- 🛒 **Keranjang Belanja (Cart)** — Pengguna bisa menambahkan menu ke keranjang dan melihat total harga.  
+- 🔑 **Login Page** — Simulasi login dengan sistem autentikasi dasar.  
+- 📦 **Backend API** — Menyediakan data menu yang terhubung ke database MySQL.  
+- 💾 **Database** — Mengelola data `users` dan `menus` (nama, harga, deskripsi, dan gambar).  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Tech Stack
+
+### 🖥️ Frontend
+- React.js  
+- Tailwind CSS  
+- React Toastify  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- MySQL (via DBeaver)  
+- dotenv  
+- cors  
+
+---
+
