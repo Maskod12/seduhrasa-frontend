@@ -3,6 +3,8 @@
 **SeduhRasa** adalah aplikasi pemesanan kopi dan makanan berbasis web yang dibuat menggunakan **React.js** (frontend) dan **Node.js + MySQL** (backend).  
 Aplikasi ini dirancang untuk menampilkan daftar menu, menambahkan item ke keranjang, serta memiliki halaman login untuk pengguna.
 
+Untuk melihat tampilan atau pratinjau proyek, silakan buka folder public/previewProject yang berisi beberapa screenshot hasil pengembangan aplikasi SeduhRasa.
+
 ---
 
 ## 🚀 Fitur Utama
